@@ -54,4 +54,12 @@ To become strong in Data Structures and Algorithms and build the ability to solv
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/2390-removing-stars-from-a-string) |
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/neekhilsingh/DSA-Track/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/neekhilsingh/DSA-Track/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
