@@ -45,10 +45,12 @@ To become strong in Data Structures and Algorithms and build the ability to solv
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0020-valid-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
