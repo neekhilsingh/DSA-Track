@@ -97,4 +97,12 @@ To become strong in Data Structures and Algorithms and build the ability to solv
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/neekhilsingh/DSA-Track/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/neekhilsingh/DSA-Track/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
