@@ -23,22 +23,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 
 ---
 
-## 🧠 Notes
 
-- Understand the approach before coding
-- Start with brute force, then optimize
-- Focus on patterns instead of memorizing solutions
-- Revise previously solved problems regularly
-
----
-
-## 🔥 Goal
-
-To become strong in Data Structures and Algorithms and build the ability to solve interview-level problems confidently and efficiently.
-
----
-
-⭐ Consistency > intensity. Keep building.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -142,3 +127,21 @@ To become strong in Data Structures and Algorithms and build the ability to solv
 | ------- |
 | [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
+
+
+## 🧠 Notes
+
+- Understand the approach before coding
+- Start with brute force, then optimize
+- Focus on patterns instead of memorizing solutions
+- Revise previously solved problems regularly
+
+---
+
+## 🔥 Goal
+
+To become strong in Data Structures and Algorithms and build the ability to solve interview-level problems confidently and efficiently.
+
+---
+
+⭐ Consistency > intensity. Keep building.
