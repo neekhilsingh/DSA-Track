@@ -64,6 +64,7 @@ To become strong in Data Structures and Algorithms and build the ability to solv
 | ------- |
 | [0046-permutations](https://github.com/neekhilsingh/DSA-Track/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neekhilsingh/DSA-Track/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -118,6 +119,7 @@ To become strong in Data Structures and Algorithms and build the ability to solv
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Design
 |  |
@@ -135,4 +137,8 @@ To become strong in Data Structures and Algorithms and build the ability to solv
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
