@@ -51,6 +51,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0046-permutations](https://github.com/neekhilsingh/DSA-Track/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -64,6 +65,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/neekhilsingh/DSA-Track/tree/master/2336-smallest-number-in-infinite-set) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -82,6 +84,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -109,6 +112,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Design
