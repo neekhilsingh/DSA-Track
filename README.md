@@ -42,6 +42,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/2390-removing-stars-from-a-string) |
 ## Array
@@ -50,6 +51,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0046-permutations](https://github.com/neekhilsingh/DSA-Track/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
+| [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neekhilsingh/DSA-Track/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -88,6 +90,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -142,6 +145,14 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
 
 
