@@ -96,6 +96,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
+| [0876-middle-of-the-linked-list](https://github.com/neekhilsingh/DSA-Track/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
@@ -139,6 +140,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
+| [0876-middle-of-the-linked-list](https://github.com/neekhilsingh/DSA-Track/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
