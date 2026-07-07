@@ -152,6 +152,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | ------- |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Reservoir Sampling
 |  |
 | ------- |
