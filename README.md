@@ -34,6 +34,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0434-number-of-segments-in-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/0434-number-of-segments-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neekhilsingh/DSA-Track/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -59,6 +60,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/neekhilsingh/DSA-Track/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neekhilsingh/DSA-Track/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
@@ -100,6 +102,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/neekhilsingh/DSA-Track/tree/master/0876-middle-of-the-linked-list) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
