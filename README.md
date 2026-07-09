@@ -54,6 +54,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0046-permutations](https://github.com/neekhilsingh/DSA-Track/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
+| [0228-summary-ranges](https://github.com/neekhilsingh/DSA-Track/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/neekhilsingh/DSA-Track/tree/master/0289-game-of-life) |
