@@ -62,6 +62,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0641-design-circular-deque](https://github.com/neekhilsingh/DSA-Track/tree/master/0641-design-circular-deque) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/neekhilsingh/DSA-Track/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neekhilsingh/DSA-Track/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -75,6 +76,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
+| [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/neekhilsingh/DSA-Track/tree/master/2336-smallest-number-in-infinite-set) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -127,6 +129,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/neekhilsingh/DSA-Track/tree/master/0414-third-maximum-number) |
+| [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Design
 |  |
