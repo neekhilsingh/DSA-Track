@@ -31,6 +31,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0020-valid-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/0151-reverse-words-in-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/0434-number-of-segments-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neekhilsingh/DSA-Track/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -105,6 +106,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/neekhilsingh/DSA-Track/tree/master/0876-middle-of-the-linked-list) |
