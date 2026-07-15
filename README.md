@@ -165,6 +165,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | ------- |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/neekhilsingh/DSA-Track/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Reservoir Sampling
 |  |
@@ -187,6 +188,10 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0641-design-circular-deque](https://github.com/neekhilsingh/DSA-Track/tree/master/0641-design-circular-deque) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/neekhilsingh/DSA-Track/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
 
 
