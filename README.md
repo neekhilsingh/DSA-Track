@@ -50,6 +50,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/2390-removing-stars-from-a-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neekhilsingh/DSA-Track/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +71,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neekhilsingh/DSA-Track/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -113,6 +115,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0876-middle-of-the-linked-list](https://github.com/neekhilsingh/DSA-Track/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neekhilsingh/DSA-Track/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +137,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0414-third-maximum-number](https://github.com/neekhilsingh/DSA-Track/tree/master/0414-third-maximum-number) |
 | [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neekhilsingh/DSA-Track/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
 |  |
 | ------- |
@@ -169,6 +173,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/neekhilsingh/DSA-Track/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neekhilsingh/DSA-Track/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -194,6 +199,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/neekhilsingh/DSA-Track/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/neekhilsingh/DSA-Track/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
 
 
