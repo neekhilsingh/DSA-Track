@@ -189,6 +189,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/neekhilsingh/DSA-Track/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
