@@ -191,6 +191,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | ------- |
 | [0461-hamming-distance](https://github.com/neekhilsingh/DSA-Track/tree/master/0461-hamming-distance) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/neekhilsingh/DSA-Track/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
 | ------- |
