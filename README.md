@@ -65,6 +65,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0414-third-maximum-number](https://github.com/neekhilsingh/DSA-Track/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/neekhilsingh/DSA-Track/tree/master/0641-design-circular-deque) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/neekhilsingh/DSA-Track/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -141,6 +142,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/neekhilsingh/DSA-Track/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3536-maximum-product-of-two-digits](https://github.com/neekhilsingh/DSA-Track/tree/master/3536-maximum-product-of-two-digits) |
@@ -178,6 +180,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | ------- |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
+| [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/neekhilsingh/DSA-Track/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/neekhilsingh/DSA-Track/tree/master/3658-gcd-of-odd-and-even-sums) |
