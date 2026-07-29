@@ -32,6 +32,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | ------- |
 | [0020-valid-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/0151-reverse-words-in-a-string) |
+| [0290-word-pattern](https://github.com/neekhilsingh/DSA-Track/tree/master/0290-word-pattern) |
 | [0434-number-of-segments-in-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/0434-number-of-segments-in-a-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neekhilsingh/DSA-Track/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -89,6 +90,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/neekhilsingh/DSA-Track/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/neekhilsingh/DSA-Track/tree/master/2336-smallest-number-in-infinite-set) |
