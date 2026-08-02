@@ -72,6 +72,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/neekhilsingh/DSA-Track/tree/master/0641-design-circular-deque) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/neekhilsingh/DSA-Track/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/neekhilsingh/DSA-Track/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/neekhilsingh/DSA-Track/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
@@ -196,6 +197,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/neekhilsingh/DSA-Track/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/neekhilsingh/DSA-Track/tree/master/3536-maximum-product-of-two-digits) |
@@ -237,6 +239,11 @@ It is maintained as part of my consistent learning and interview preparation jou
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0494-target-sum) |
+| [0877-stone-game](https://github.com/neekhilsingh/DSA-Track/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/neekhilsingh/DSA-Track/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
 
 
