@@ -66,6 +66,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/neekhilsingh/DSA-Track/tree/master/0289-game-of-life) |
+| [0349-intersection-of-two-arrays](https://github.com/neekhilsingh/DSA-Track/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/neekhilsingh/DSA-Track/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0494-target-sum) |
@@ -95,6 +96,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | ------- |
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/neekhilsingh/DSA-Track/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/neekhilsingh/DSA-Track/tree/master/0349-intersection-of-two-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/neekhilsingh/DSA-Track/tree/master/2336-smallest-number-in-infinite-set) |
@@ -129,6 +131,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/neekhilsingh/DSA-Track/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/neekhilsingh/DSA-Track/tree/master/0876-middle-of-the-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -137,6 +140,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/neekhilsingh/DSA-Track/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/neekhilsingh/DSA-Track/tree/master/0374-guess-number-higher-or-lower) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/neekhilsingh/DSA-Track/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Interactive
@@ -154,6 +158,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | ------- |
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/neekhilsingh/DSA-Track/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/neekhilsingh/DSA-Track/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/neekhilsingh/DSA-Track/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
