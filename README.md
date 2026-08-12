@@ -83,6 +83,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neekhilsingh/DSA-Track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/neekhilsingh/DSA-Track/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -101,6 +102,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/neekhilsingh/DSA-Track/tree/master/2336-smallest-number-in-infinite-set) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neekhilsingh/DSA-Track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/neekhilsingh/DSA-Track/tree/master/3731-find-missing-elements) |
@@ -191,6 +193,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/neekhilsingh/DSA-Track/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neekhilsingh/DSA-Track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Counting Sort
 |  |
 | ------- |
