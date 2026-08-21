@@ -56,6 +56,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [1260-shift-2d-grid](https://github.com/neekhilsingh/DSA-Track/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neekhilsingh/DSA-Track/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
@@ -86,6 +87,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neekhilsingh/DSA-Track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/neekhilsingh/DSA-Track/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/neekhilsingh/DSA-Track/tree/master/3867-sum-of-gcd-of-formed-pairs) |
