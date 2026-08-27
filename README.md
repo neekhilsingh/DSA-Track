@@ -62,6 +62,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0046-permutations](https://github.com/neekhilsingh/DSA-Track/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/neekhilsingh/DSA-Track/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/neekhilsingh/DSA-Track/tree/master/0228-summary-ranges) |
@@ -215,6 +216,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/neekhilsingh/DSA-Track/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
