@@ -75,6 +75,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0494-target-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0641-design-circular-deque](https://github.com/neekhilsingh/DSA-Track/tree/master/0641-design-circular-deque) |
+| [0781-rabbits-in-forest](https://github.com/neekhilsingh/DSA-Track/tree/master/0781-rabbits-in-forest) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/neekhilsingh/DSA-Track/tree/master/0877-stone-game) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/neekhilsingh/DSA-Track/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -105,6 +106,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/neekhilsingh/DSA-Track/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/neekhilsingh/DSA-Track/tree/master/0349-intersection-of-two-arrays) |
+| [0781-rabbits-in-forest](https://github.com/neekhilsingh/DSA-Track/tree/master/0781-rabbits-in-forest) |
 | [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/neekhilsingh/DSA-Track/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/neekhilsingh/DSA-Track/tree/master/2336-smallest-number-in-infinite-set) |
@@ -162,6 +164,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Greedy
 |  |
 | ------- |
+| [0781-rabbits-in-forest](https://github.com/neekhilsingh/DSA-Track/tree/master/0781-rabbits-in-forest) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -222,6 +225,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
+| [0781-rabbits-in-forest](https://github.com/neekhilsingh/DSA-Track/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/neekhilsingh/DSA-Track/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
