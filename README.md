@@ -218,6 +218,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
 | [0641-design-circular-deque](https://github.com/neekhilsingh/DSA-Track/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/neekhilsingh/DSA-Track/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/neekhilsingh/DSA-Track/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
 | ------- |
