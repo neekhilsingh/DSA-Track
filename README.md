@@ -64,6 +64,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0046-permutations](https://github.com/neekhilsingh/DSA-Track/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/neekhilsingh/DSA-Track/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/neekhilsingh/DSA-Track/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/neekhilsingh/DSA-Track/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0229-majority-element-ii) |
@@ -168,6 +169,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0781-rabbits-in-forest](https://github.com/neekhilsingh/DSA-Track/tree/master/0781-rabbits-in-forest) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/neekhilsingh/DSA-Track/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -273,6 +275,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/neekhilsingh/DSA-Track/tree/master/0877-stone-game) |
