@@ -54,6 +54,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0289-game-of-life](https://github.com/neekhilsingh/DSA-Track/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/neekhilsingh/DSA-Track/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/neekhilsingh/DSA-Track/tree/master/1260-shift-2d-grid) |
+| [1389-create-target-array-in-the-given-order](https://github.com/neekhilsingh/DSA-Track/tree/master/1389-create-target-array-in-the-given-order) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/neekhilsingh/DSA-Track/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -82,6 +83,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/neekhilsingh/DSA-Track/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1260-shift-2d-grid](https://github.com/neekhilsingh/DSA-Track/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1331-rank-transform-of-an-array) |
+| [1389-create-target-array-in-the-given-order](https://github.com/neekhilsingh/DSA-Track/tree/master/1389-create-target-array-in-the-given-order) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/neekhilsingh/DSA-Track/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/neekhilsingh/DSA-Track/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
