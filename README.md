@@ -94,6 +94,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/neekhilsingh/DSA-Track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/neekhilsingh/DSA-Track/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/neekhilsingh/DSA-Track/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -120,6 +121,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/neekhilsingh/DSA-Track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/neekhilsingh/DSA-Track/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/neekhilsingh/DSA-Track/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -287,6 +289,14 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/neekhilsingh/DSA-Track/tree/master/0877-stone-game) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
 
 
