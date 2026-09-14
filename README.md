@@ -237,6 +237,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 | [0382-linked-list-random-node](https://github.com/neekhilsingh/DSA-Track/tree/master/0382-linked-list-random-node) |
 | [0628-maximum-product-of-three-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/neekhilsingh/DSA-Track/tree/master/0781-rabbits-in-forest) |
+| [0836-rectangle-overlap](https://github.com/neekhilsingh/DSA-Track/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/neekhilsingh/DSA-Track/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/neekhilsingh/DSA-Track/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/neekhilsingh/DSA-Track/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -297,6 +298,10 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/neekhilsingh/DSA-Track/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/neekhilsingh/DSA-Track/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
 
 
