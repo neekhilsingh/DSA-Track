@@ -31,6 +31,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/neekhilsingh/DSA-Track/tree/master/0290-word-pattern) |
 | [0434-number-of-segments-in-a-string](https://github.com/neekhilsingh/DSA-Track/tree/master/0434-number-of-segments-in-a-string) |
@@ -112,6 +113,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/neekhilsingh/DSA-Track/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0494-target-sum) |
 ## Hash Table
@@ -292,6 +294,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/neekhilsingh/DSA-Track/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/neekhilsingh/DSA-Track/tree/master/0494-target-sum) |
@@ -317,6 +320,7 @@ It is maintained as part of my consistent learning and interview preparation jou
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/neekhilsingh/DSA-Track/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
